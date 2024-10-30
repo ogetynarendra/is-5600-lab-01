@@ -25,7 +25,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-   background-image: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080'); /* Hero image from Unsplash */
+   background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400'); /* Hero image from Unsplash */
    background-size: cover;
    background-position: center;
    height: 60vh;
